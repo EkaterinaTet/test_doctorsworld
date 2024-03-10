@@ -1,12 +1,12 @@
 ## Установить и запустить веб-сайт
 
-1) клонируем
+1) клонируем: 
    git clone https://github.com/EkaterinaTet/test_doctorsworld.git
-2) переходим в папку
+2) переходим в папку: 
    cd test_doctorsworld
-3) устанавливаем зависимости
+3) устанавливаем зависимости: 
    npm install
-4) запускаем
+4) запускаем: 
    npm run dev
 
 ## Технологии
