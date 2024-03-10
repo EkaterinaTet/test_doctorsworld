@@ -14,3 +14,7 @@
 ● React
 ● TypeScript
 ● Адаптивная верстка
+
+Если возникли проблемы при запуске проекта, свяжитесь со мной: 
+ekaterina.psychologist98@gmail.com
+telegram @ekaterinaemeli
