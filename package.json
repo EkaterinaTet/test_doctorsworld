@@ -1,6 +1,7 @@
 {
   "name": "test_doctorsworld",
   "version": "0.1.0",
+  "homepage": "https://EkaterinaTet.github.io/test_doctorsworld",
   "private": false,
   "scripts": {
     "dev": "next dev",
