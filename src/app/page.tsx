@@ -1,3 +1,5 @@
+"use client";
+
 import "./page.css";
 import HeaderItems from "../../components/HeaderItems";
 import BlockQuestions from "../../components/BlockQuestions";
