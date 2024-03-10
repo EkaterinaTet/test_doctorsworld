@@ -61,9 +61,6 @@ const HiddenBlockTwoCards = () => {
 const HiddenBlockTwo = () => {
   return (
     <div id="block__question4" className="block__question">
-      <button className="btn2">
-        <img src="img/click2.svg" alt="clickMe" />
-      </button>
       <div className="block__question2-text">
         <p>
           <span className="bold-text">
